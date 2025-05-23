@@ -1,7 +1,42 @@
 [
     {
+        "name": "Basketball Stars",
+        "slug": "basketball-stars",
+        "image": "/cache/data/image/game/basketball-stars/basketball-stars-m186x186.webp"
+    },
+    {
+        "name": "Retro Bowl",
+        "slug": "retro-bowl",
+        "image": "/cache/data/image/game/retro-bowl/retro-bowl-m186x186.webp"
+    },
+    {
+        "name": "Golf Hit",
+        "slug": "golf-hit",
+        "image": "/cache/data/image/game/golf-hit/golf-hit-m186x186.webp"
+    },
+    {
         "name": "Speed Stars Unblocked",
         "slug": "speed-stars-unblocked",
         "image": "/cache/data/image/game/speed-stars-unblocked/speed-stars-unblocked-m186x186.webp"
+    },
+    {
+        "name": "Indoor Soccer",
+        "slug": "indoor-soccer",
+        "image": "/cache/data/image/game/indoor-soccer/indoor-soccer-m186x186.webp"
+    },
+    {
+        "name": "Sprinter Heroes",
+        "slug": "sprinter-heroes",
+        "image": "/cache/data/image/game/sprinter-heroes/sprinter-heroes-m186x186.webp"
+    },
+    {
+        "name": "Athletics Hero",
+        "slug": "athletics-hero",
+        "image": "/cache/data/image/game/athletics-hero/athletics-hero-m186x186.webp"
+    },
+    {
+        "name": "Sprinter",
+        "slug": "sprinter",
+        "image": "/cache/data/image/game/sprinter/sprinter-1-m186x186.webp"
     }
 ]
