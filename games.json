@@ -55,6 +55,11 @@
         "image": "/cache/data/image/game/indoor-soccer/indoor-soccer-m186x186.webp"
     },
     {
+        "name": "Soccer Euro Cup 2025",
+        "slug": "soccer-euro-cup-2025",
+        "image": "/cache/data/image/game/soccer-euro-cup-2025/soccer-euro-cup-2025-m186x186.webp"
+    },
+    {
         "name": "Sprinter Heroes",
         "slug": "sprinter-heroes",
         "image": "/cache/data/image/game/sprinter-heroes/sprinter-heroes-m186x186.webp"
@@ -143,5 +148,35 @@
         "name": "Golf Orbit",
         "slug": "golf-orbit",
         "image": "/cache/data/image/game/golf-orbit/golf-orbit-1-m186x186.webp"
+    },
+    {
+        "name": "Penalty Kick Online",
+        "slug": "penalty-kick-online",
+        "image": "/cache/data/image/game/penalty-kick-online/penalty-kick-online-m186x186.webp"
+    },
+    {
+        "name": "Speed Legends",
+        "slug": "speed-legends",
+        "image": "/cache/data/image/game/speed-legends/speed-legends-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash",
+        "slug": "geometry-dash",
+        "image": "/cache/data/image/game/geometry-dash/geometry-dash-m186x186.webp"
+    },
+    {
+        "name": "Speed Stars",
+        "slug": "speed-stars",
+        "image": "/cache/data/image/game/speed-stars/speed-stars-m186x186.webp"
+    },
+    {
+        "name": "BobbleHead Soccer",
+        "slug": "bobblehead-soccer",
+        "image": "/cache/data/image/game/basket-swooshes-plus/bobblehead-soccer-m186x186.webp"
+    },
+    {
+        "name": "Basket Swooshes Plus",
+        "slug": "basket-swooshes-plus",
+        "image": "/cache/data/image/game/basket-swooshes-plus/basket-swooshes-plus1-m186x186.webp"
     }
 ]
