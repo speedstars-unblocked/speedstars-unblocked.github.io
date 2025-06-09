@@ -178,5 +178,20 @@
         "name": "Basket Swooshes Plus",
         "slug": "basket-swooshes-plus",
         "image": "/cache/data/image/game/basket-swooshes-plus/basket-swooshes-plus1-m186x186.webp"
+    },
+    {
+        "name": "Slope 2",
+        "slug": "slope-2",
+        "image": "/cache/data/image/game/slope-2/slope-2-m186x186.webp"
+    },
+    {
+        "name": "Basketball Superstars",
+        "slug": "basketball-superstars",
+        "image": "/cache/data/image/game/basketball-superstars/basketball-superstars-m186x186.webp"
+    },
+    {
+        "name": "Football Stars",
+        "slug": "football-stars",
+        "image": "/cache/data/image/game/football-stars/football-stars-1-m186x186.webp"
     }
 ]
