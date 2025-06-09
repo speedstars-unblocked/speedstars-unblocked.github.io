@@ -193,5 +193,25 @@
         "name": "Football Stars",
         "slug": "football-stars",
         "image": "/cache/data/image/game/football-stars/football-stars-1-m186x186.webp"
+    },
+    {
+        "name": "Wacky Flip",
+        "slug": "wacky-flip",
+        "image": "/cache/data/image/game/wacky-flip/wacky-flip-m186x186.webp"
+    },
+    {
+        "name": "Duck Life 4",
+        "slug": "duck-life-4",
+        "image": "/cache/data/image/game/duck-life-4/duck-life-4-m186x186.webp"
+    },
+    {
+        "name": "Football Masters",
+        "slug": "football-masters",
+        "image": "/cache/data/image/game/football-masters/football-masters-1-m186x186.webp"
+    },
+    {
+        "name": "Duck Life Adventure",
+        "slug": "duck-life-adventure",
+        "image": "/cache/data/image/game/duck-life-adventure/duck-life-adventure-m186x186.webp"
     }
 ]
