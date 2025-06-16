@@ -208,5 +208,15 @@
         "name": "Football Masters",
         "slug": "football-masters",
         "image": "/cache/data/image/game/football-masters/football-masters-1-m186x186.webp"
+    },
+    {
+        "name": "Duck Life Adventure",
+        "slug": "duck-life-adventure",
+        "image": "/cache/data/image/game/duck-life-adventure/duck-life-adventure-m186x186.webp"
+    },
+    {
+        "name": "Basket Random",
+        "slug": "basket-random",
+        "image": "/cache/data/image/game/basket-random/basket-random-m186x186.webp"
     }
 ]
