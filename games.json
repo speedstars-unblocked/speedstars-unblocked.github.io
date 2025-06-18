@@ -218,5 +218,10 @@
         "name": "Basket Random",
         "slug": "basket-random",
         "image": "/cache/data/image/game/basket-random/basket-random-m186x186.webp"
+    },
+    {
+        "name": "Soccer Legends",
+        "slug": "soccer-legends",
+        "image": "/cache/data/image/game/soccer-legends/soccer-legends-m186x186.webp"
     }
 ]
