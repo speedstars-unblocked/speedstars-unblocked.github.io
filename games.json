@@ -223,5 +223,15 @@
         "name": "Soccer Legends",
         "slug": "soccer-legends",
         "image": "/cache/data/image/game/soccer-legends/soccer-legends-m186x186.webp"
+    },
+    {
+        "name": "Boxing Random",
+        "slug": "boxing-random",
+        "image": "/cache/data/image/game/boxing-random/boxing-random-m186x186.webp"
+    },
+    {
+        "name": "Downhill Chill",
+        "slug": "downhill-chill",
+        "image": "/cache/data/image/game/downhill-chill/downhill-chill-1-m186x186.webp"
     }
 ]
