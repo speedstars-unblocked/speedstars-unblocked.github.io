@@ -233,5 +233,10 @@
         "name": "Downhill Chill",
         "slug": "downhill-chill",
         "image": "/cache/data/image/game/downhill-chill/downhill-chill-1-m186x186.webp"
+    },
+    {
+        "name": "Drunken Boxing 2",
+        "slug": "drunken-boxing-2",
+        "image": "/cache/data/image/game/drunken-boxing-2/drunken-boxing-2-m186x186.webp"
     }
 ]
