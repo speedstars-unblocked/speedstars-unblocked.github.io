@@ -238,5 +238,15 @@
         "name": "Drunken Boxing 2",
         "slug": "drunken-boxing-2",
         "image": "/cache/data/image/game/drunken-boxing-2/drunken-boxing-2-m186x186.webp"
+    },
+    {
+        "name": "Head Basketball",
+        "slug": "head-basketball",
+        "image": "/cache/data/image/game/head-basketball/head-basketball-m186x186.webp"
+    },
+    {
+        "name": "Basket Slam Dunk 2",
+        "slug": "basket-slam-dunk-2",
+        "image": "/cache/data/image/game/basket-slam-dunk-2/basket-slam-dunk-2-m186x186.webp"
     }
 ]
