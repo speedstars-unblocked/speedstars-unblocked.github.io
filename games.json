@@ -248,5 +248,10 @@
         "name": "Basket Slam Dunk 2",
         "slug": "basket-slam-dunk-2",
         "image": "/cache/data/image/game/basket-slam-dunk-2/basket-slam-dunk-2-m186x186.webp"
+    },
+    {
+        "name": "HomeRun Derby",
+        "slug": "homerun-derby",
+        "image": "/cache/data/image/game/homerun-derby/homerun-derby-1-m186x186.webp"
     }
 ]
